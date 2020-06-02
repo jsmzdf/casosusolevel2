@@ -2,7 +2,8 @@
 <img src="https://github.com/jsmzdf/coasos-de-uso/blob/master/Login.png" width="500" title="hover text">
 <img src="https://github.com/jsmzdf/coasos-de-uso/blob/master/retiro%20de%20dinero.png" width="500" title="hover text">
 <img src="https://github.com/jsmzdf/casosusolevel2/blob/master/Transferencia.png">
-# Diagrama de Secuenca
+
+# Diagrama de Secuencia
 <img src="https://github.com/jsmzdf/casosusolevel2/blob/master/Retiro%20de%20efectivo.png" width="500" title="hover text">
 <img src="https://github.com/jsmzdf/casosusolevel2/blob/master/Diagrama%20de%20secuencia-Transferencia.png">
 ### herramienta utlizada: StarUML
